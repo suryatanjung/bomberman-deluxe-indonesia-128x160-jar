@@ -1,0 +1,108 @@
+[game]
+MENANG DALAM
+MENANG!
+PERMAINAN SELESAI
+HEBAT!!
+PERMAINAN SELESAI
+
+[infoimg]
+MODE NORMAL
+MODE PERTARUNGAN
+PIALA
+PILIHAN
+BANTUAN
+TENTANG
+Suara
+HIDUP
+MATI
+Nilai Tertinggi:
+Permainan Baru
+Lanjutkan
+Waktu
+Ronde
+Siap...
+WAKTU HABIS
+IMBANG!
+BABAK DISELESAIKAN!
+KELUAR
+PERMAINAN BERAKHIR
+KAMU
+CPU1
+CPU2
+CPU3
+PIALA DITERIMA!
+KOLEKSI PIALA
+Efek
+Musik
+Tidak Ada
+Bahasa
+Nilai Kamu
+Keluar Permainan?
+Nama
+Versi
+Hakcipta Hudson Soft Co. Ltd. Dipersembahkan oleh Living Mobile GmbH.
+Diterjemahkan oleh
+github.com/suryatanjung
+Memuat...
+
+[trpname]
+Medali Biasa
+Piala Kolektor
+Penghargaan Profil Rendah
+Menang atas kelemahan
+Hadiah Pembunuh Massal
+Piala Pelari
+
+[softkey]
+-
+Kembali
+Selanjutnya
+Berhenti
+Suara
+Selesai
+Barang
+Ya
+Tidak
+OK
+Tutup
+
+[help]
+%h%Permainan
+Temanmu Bomberman kembali dan harus bertarung untuk melewati 30 tingkat menantang yang penuh dengan musuh dan barang pembantu!
+Saat ini, boss jahat di setiap tingkat akan mecoba mencegahmu untuk memenangkan permainan. Pada tingkat biasa dimana kamu tidak menghadapi boss, kamu bisa menggunakan tangga %i00% ini untuk menyelesaikan ronde. Jika, bagaimanapun, kamu memasuki tingkat boss, kamu harus mengalahkannya untuk maju ke ronde selanjutnya!
+%h%Kontrol
+Pada menu kamu menggunakan tombol utama atau tombol nomor untuk mengarahkannya ke atas dengan menekan 'Atas' atau '2', ke bawah dengan menekan 'Bawah' atau '8', ke kiri menggunakan tombol 'Kiri' atau '4' dan untuk ke kanan menggunakan tombol 'Kanan' atau '6'. untuk memilihnya kamu dapat menggunakan tombol '5' atau tombol soft kiri. Untuk kembali atau keluar permainan, gunakan tombol soft kanan.
+Ketika bermain, tombol utama (jika tersedia) tombol nomor pada telepon bisa digunakan untuk mengontrol pergerakan Bomberman. Gerakkan Bomberman ke atas dengan menekan 'Atas' atau '2', ke bawah dengan menekan 'Bawah' atau '8', ke kiri dengan menggunakan tombol 'Kiri' atau '4' dan ke kanan dengan menggunakan tombol 'Kanan' atau '6'. Letakkan bom dengan menggunakan tombol tembak atau '5' dan memberhentikan permainan dengan menekan tombol soft kanan. Pada saat menerima barang pembantu spesial (dijelaskan dibawah), kamu dapat menggunakan tombol soft kiri untuk mengaktifkannya.
+%h%Barang Pembantu
+%i02% "Sepatu Roda" meningkatkan kecepatan pergerakanmu. Kamu bisa membawa maksimal 5 "Sepatu Roda".
+%i04% "Api" meningkatkan jangkauan bommu. Kamu bisa membawa maksimal 9 "Api".
+%i05% "Bom" meningkatkan jumlah bom (%b00% %b01% %b02%) yang bisa kamu aktifkan pada waktu yang bersamaan. Kamu juga bisa membawa maksimal 9 Bom.
+Segeralah mengoleksi Barang Pembantu ini. Ini akan tetap dapat digunakan: bahkan jika kamu kehilangan nyawa, Barang Pembantu ini masih bisa digunakan.
+%h%Barang Pembantu Spesial
+%i07% "Bomberman" akan memberimu nyawa tambahan.
+%i01% Barang ini memberimu bom yang bisa dikontrol %b02%. Gunakan tombol soft kiri untuk menyalakan semua bom.
+%i08% Barang ini memberimu bom spesial lainnya %b01%. Membuat bom melewati dinding, jadi gunakan dengan hati-hati !
+%i10% "Bom Tendang" membuatmu dapat menendang bom melewati dinding dengan berlari mengenainya. Ledakkan bom ketika sedang bergulir di lantai dengan menekan tombol soft kiri.
+%i03% Barang ini memberimu kemampuan untuk berjalan melewati dinding.
+%i11% Mengenakan rompi ini akan membuatmu menjadi tak terlihat untuk beberapa saat.
+%i06% Akan membuatmu menjadi tak terlihat setelah terkena serangan. Barang ini akan menghilang setelah kamu terkena serangan.
+%i09% Menghentikan gerakan semua musuh untuk beberapa saat. Gunakan ini untuk memasang perangkap!
+%h%Piala
+Kamu akan menerima piala ketika kamu menyelesaikan permainan dalam satu kali jalan (tanpa menggunakan 'Lanjutkan'). Piala akan diberikan sesuai dengan kemampuanmu dan akan diset ulang setiap kali kamu memulai permainan baru:
+%t00%: Hanya menyelesaikan permainan dalam satu kali jalan.
+%t01%: Mengoleksi semua Barang Pembantu yang tersedia di setiap tingkat.
+%t02%: Kamu tidak mengalahkan semua musuh dalam semua tingkat.
+%t03%: Dari mulai sampai selesai kamu tidak mengoleksi Barang Pembantu "Api".
+%t04%: Kamu mengalahkan semua musuh dalam semua tingkat.
+%t05%: Setiap ronde diselesaikan dalam 100 detik atau kurang.
+%h%Mode Pertarungan
+Kalahkan tiga musuh jahat yang melawanmu! Tidak ada tujuan lain selain bertahan dan menang. Dapatkah kamu diharapkan ... ?
+%h%Penerjemah Bahasa Indonesia
+%i07% SURYA TANJUNG
+
+github.com/suryatanjung
+linkedin.com/in/suryatanjung
+reddit.com/u/suryatanjung
+twitter.com/suryatanjung
+
+Kunjungi: jung.bz

@@ -1,0 +1,100 @@
+[game]
+WINS
+WIN!
+GAME SET
+VICTORY!!
+GAME CLEAR
+
+[infoimg]
+NORMAL MODE
+VS MODE
+TROPHIES
+OPTIONS
+HELP
+ABOUT
+Sound
+ON
+OFF
+High Score:
+New Game
+Continue
+Time
+Round
+Ready...
+TIME UP
+DRAW!
+STAGE CLEAR!
+EXIT
+GAME OVER
+YOU
+CPU1
+CPU2
+CPU3
+TROPHY RECEIVED!
+TROPHY COLLECTION
+Effects
+Music
+None
+Language
+Your Score
+Quit the Game?
+Name
+Version
+Copyright Hudson Soft Co. Ltd.
+Presented by 
+Living Mobile GmbH
+Loading...
+
+[trpname]
+Ordinary medal
+Collector Trophy
+Low profile award
+Laurels of feebleness
+Massacre prize
+Running man trophy
+
+[softkey]
+-
+Back
+Next
+Pause
+Sound
+End
+Item
+Yes
+No
+OK
+Quit
+
+[help]
+%h%Gameplay
+Your friend Bomberman is back and has to fight his way through 30 exciting levels choc full of enemies and goodies!
+This time, mean stage bosses try to stop you from winning the game. In regular levels where you do not encounter stage bosses, you can use these %i00% stairs to clear the round. If, however, you come across a stage boss, you will have to destroy him in order to advance to the next round!
+%h%Controls
+In menus you use the directional pad or the number pad to navigate up by pressing 'Up' or '2', down by pressing 'Down' or '8', left using the keys 'Left' or '4' and to the right with keys 'Right' or '6'. To select an entry you can use key '5' or the left softkey, to go back or quit the game, use the right softkey.
+While playing, the directional pad (if available) or the number pad of your phone can be used to control Bomberman's movement. You move Bomberman up by pressing 'Up' or '2', down by pressing 'Down' or '8', left using the keys 'Left' or '4' and to the right with keys 'Right' or '6'. Place a bomb with the fire key or '5' and pause the game pressing the right softkey. In case you collected some of the special items (described below), you can use the left softkey to activate them.
+%h%Items
+%i02% The roller skates will speed up your movement. You can carry a maximum of 5 roller skates.
+%i04% The fire item increases the range of your bombs. You can carry a maximum of 9 fire items.
+%i05% The bomb item increases the amount of bombs (%b00% %b01% %b02%) you can place at the same time. Again, you can carry a maximum of 9 bomb items.
+As soon as you collect these items they belong to you: even if you loose a life, these items can still be used.
+%h%Special Items
+%i07% The Bomberman item will give you an extra life.
+%i01% This item gives you remote controlled bombs %b02%. Use the left softkey to ignite all bombs.
+%i08% This item gives you another special bomb %b01%. It will bomb through walls so take good care!
+%i10% The bomb kick item will let you kick bombs through the stage by running against. Explode them while they are still rolling around the floor by pressing the left softkey.
+%i03% This item will give you the ability to walk through walls.
+%i11% Carrying this vest will make you invincible for a period of time.
+%i06% Gives you invincibility until the next hit. The item will disappear after you have been hit.
+%i09% Freezes the movements of all enemies for a few precious seconds. Use it to set your traps!
+%h%Trophies
+You will be rewarded with trophies when you finish the game in one go (without using 'Continue'). The trophies will be awarded according to your skills and will be reset each time you start a new game:
+%t00%: Just clear the game in one go.
+%t01%: Collect all available items in each of the stages.
+%t02%: You did not destroy all enemies in all of the stages.
+%t03%: From start to finish you did not collect a single fire item.
+%t04%: You destroyed all enemies in all of the stages.
+%t05%: Each round was cleared in 100 seconds or less.
+%h%Versus Mode
+Fight against three of your most evil rivals! The goal is nothing less than to survive and win. Can you live up to expectations ... ?
+

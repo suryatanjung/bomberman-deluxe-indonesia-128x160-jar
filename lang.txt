@@ -1,0 +1,7 @@
+﻿[lang]
+id, Indonesia
+en, English
+de, Deutsch
+es, Español
+fr, Français
+it, Italiano

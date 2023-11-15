@@ -1,0 +1,100 @@
+﻿[game]
+SIEGE
+GEWONNEN!
+SPIEL ENTSCHIEDEN
+SIEG!
+SPIEL GESCHAFFT
+
+[infoimg]
+NORMAL MODUS
+DUELL-MODUS
+TROPHÄEN
+OPTIONEN
+HILFE
+INFO
+Ton
+AN
+AUS
+Rekord:
+Neues Spiel
+Fortsetzen
+Zeit
+Runde
+los...
+ZEIT ABGELAUFEN
+UNENTSCHIEDEN!
+LEVEL BEENDET
+VERLASSEN
+SPIEL VORBEI
+DU
+CPU1
+CPU2
+CPU3
+TROPHÄE ERHALTEN
+TROPHÄENSAMMLUNG
+Effekte
+Musik
+Aus
+Sprache
+Ergebnis
+Spiel beenden?
+Name
+Version
+Copyright Hudson Soft Co. Ltd.
+Präsentiert von
+Living Mobile GmbH
+Laden...
+
+[trpname]
+Einfacher Orden
+Sammel-Pokal
+Mäßig-Auszeichnung
+Lorbeer der Lahmheit
+Massaker-Preis
+Ausdauer-Trophäe
+
+[softkey]
+-
+Zur.
+Wtr.
+Pause
+Ton
+Ende
+Obj.
+Ja
+Nein
+OK
+Verl.
+
+[help]
+%h%Gameplay
+Dein Freund Bomberman ist wieder da und muss sich durch 30 aufregende Level kämpfen, die mit Gegnern und Goodies voll gepackt sind!
+Dieses Mal versuchen gemeine Level-Bosse dich davon abzuhalten, das Spiel zu gewinnen. In normalen Leveln, ohne Bosse, kannst du die %i00%-Treppen verwenden, um die Runde zu beenden. Wenn dir allerdings ein Level-Boss begegnet, musst du ihn zuerst besiegen, bevor du das nächste Level betreten kannst.
+%h%Steuerung
+In Menüs navigierst du mit den Navigations- oder Nummerntasten. Navigiere mit 'Hoch' oder '2' nach oben, mit 'Unten' oder '8' nach unten, mit 'Links' oder '4' nach links und mit 'Rechts' oder '6' nach rechts. Um eine Auswahl zu treffen benutze '5' oder den linken Softkey, um zurückzugehen oder das Spiel zu beenden.
+Während des Spiels kannst du Bombermans Bewegungen mit den Navigations- oder Nummerntasten steuern. Du bewegst Bomberman mit 'Hoch' oder '2' nach oben und mit 'Unten' oder '8' nach unten, mit 'Links' oder '4' nach links und mit 'Rechts' oder '6' nach rechts. Platziere eine Bombe mit der Feuertaste oder '5' und unterbreche das Spiel mit dem rechten Softkey. Falls du Spezial-Gegenstände eingesammelt hast (Beschreibung siehe unten), kannst du sie mit dem linken Softkey aktivieren.
+%h%Gegenstände
+%i02% Die Rollschuhe machen dich schneller.. Du kannst bis zu 5 Rollschuhe bei dir tragen.
+%i04% Der Feuer-Gegenstand erhöht die Reichweite deiner Bomben. Du kannst bis zu 9 Feuer-Gegenstände bei dir tragen.
+%i05% Der Bomben-Gegenstand erhöht die Anzahl der Bomben (%b00% %b01% %b02%), die du gleichzeitig platzieren kannst. Du kannst bis zu 9 Bomben-Gegenstände bei dir tragen.
+Sobald du einen Gegenstand eingesammelt hast, gehört er dir: selbst wenn du ein Leben verlierst, kannst du deine Gegenstände weiterhin benutzen.
+%h%Besondere Gegenstände
+%i07% Der Bomberman-Gegenstand gibt dir ein zusätzliches Leben.
+%i01% Dieser Gegenstand gibt dir ferngesteuerte Bomben %b02%. Benutze den linken Softkey, um alle Bomben zu zünden.
+%i08% Dieser Gegenstand gibt dir eine weitere Spezial-Bombe %b01%. Sie kann Wände durchbrechen, sieh dich also vor!
+%i10% Der Bombkick-Gegenstand erlaubt dir, Bomben durch den Level zu schießen, indem du gegen sie läufst. Zünde sie, während sie noch über den Boden rollen, indem du den linken Softkey drückst.
+%i03% Dieser Gegenstand verleiht dir die Fähigkeit, durch Wände zu gehen.
+%i11% Diese Weste macht dich für eine begrenzte Zeit unbesiegbar.
+%i06% Macht dich bis zum nächsten Treffer unbesiegbar. Der Gegenstand verschwindet, wenn du getroffen wurdest.
+%i09% Friert die Bewegungen aller Gegner für einige wertvolle Sekunden ein. Benutze ihn, um deine Fallen zu stellen.
+%h%Trophäen
+Du wirst belohnt, wenn du das Spiel in einem Durchgang beendest (ohne 'Fortsetzen' zu verwenden). Die Trophäen werden deinen Fähigkeiten entsprechend vergeben. Wenn du ein neues Spiel beginnst, gehen alle Trophäen verloren:
+%t00%: Bewältige das Spiel in einem Rutsch.
+%t01%: Sammle in allen Leveln alle verfügbaren Gegenstände.
+%t02%: Du hast nicht alle Gegner in allen Leveln vernichtet.
+%t03%: Du hast vom Start bis zum Ziel nicht einen einzigen Gegenstand eingesammelt.
+%t04%: Du hast alle Gegner in allen Leveln vernichtet.
+%t05%: Jede Runde wurde in 100 Sekunden oder weniger beendet.
+%h%Duell-Modus
+Kämpfe gegen drei deiner gemeinsten Gegner! Du musst überleben und gewinnen. Schaffst du das ...?
+

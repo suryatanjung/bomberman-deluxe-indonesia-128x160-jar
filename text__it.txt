@@ -1,0 +1,100 @@
+[game]
+VITTORIE
+HAI VINTO!
+INIZIO
+VITTORIA
+COMPLETATO
+
+[infoimg]
+MOD. NORMALE
+MOD. VS
+TROFEI
+OPZIONI
+AIUTO
+INFO
+Sonoro
+SÌ
+NO
+Record:
+Nuova partita
+Continua
+Tempo
+Round
+Pronto...
+TEMPO SCADUTO
+PARI!
+COMPLETATO!
+ESCI
+GAME OVER
+TU
+CPU1
+CPU2
+CPU3
+TROFEO!
+COLLEZIONE TROFEI
+Effetti
+Musica
+No
+Lingua
+Punteggio
+Esci dal gioco?
+Nome
+versione
+Copyright Hudson Soft Co. Ltd.
+Presentato da
+Living Mobile GmbH
+Caricamento...
+
+[trpname]
+Normomedaglia
+Coppa raccolta
+Premio basso profilo
+Alloro della debolezza
+Premio massacro
+Trofeo dei sopravvissuti
+
+[softkey]
+-
+Ind.
+Av.
+Pausa
+Suono
+Fine
+Ogg.
+Sì
+No
+OK
+Esci
+
+[help]
+%h%Gioco
+Il tuo amico Bomberman è tornato, e deve combattere in 30 emozionanti livelli pieni di nemici e bonus.
+Questa volta, i boss di fine livello cercheranno di impedirti di vincere. Nei livelli normali, in cui non incontri i boss, puoi usare queste %i00% scale per completare il livello. Se incontri un boss di fine livello, invece, devi distruggerlo per passare al prossimo round!
+%h%Comandi
+Nei menu puoi usare il tasto direzionale o il tastierino numerico per muoverti in su con 'Su' o '2', giù con 'Giù' o '8', sinistra con 'Sinistra' o '4', destra con 'Destra' o '6'. Per scegliere una voce puoi usare il tasto '5' o il tasto di selezione sinistro.Per tornare indietro o uscire usa il tasto di selezione destro.
+Durante il gioco, puoi usare il tasto direzionale (se presente) o il tastierino numerico per controllare i movimenti di Bomberman.Muovi Bomberman in su con 'Su' o '2', in giù con 'Giù' o '8', a sinistra con 'Sinistra' o '4', a destra con 'Destra' o '6'. Puoi piazzare una bomba con il tasto di fuoco o '5' e mettere il gioco in pausa con il tasto di selezione destro. Se trovi degli oggetti speciali (descritti di seguito), puoi usare il tasto di selezione sinistro per attivarli.
+%h%Oggetti
+%i02% I rollerblade accelerano il tuo movimento. Puoi portarne fino a 5.
+%i04% La fiamma aumenta il raggio delle tue bombe. Puoi portarne fino a 9.
+%i05% La bomba aumenta il numero di bombe (%b00% %b01% %b02%) che puoi collocare nello stesso momento. Puoi portarne fino a 9.
+Quando prendi questi oggetti, questi restano tuoi: puoi usarli anche dopo aver perso una vita.
+%h%Oggetti speciali
+%i07% Raccogli Bomberman per avere una vita in più..
+%i01% Questo oggetto ti dà le bombe comandate a distanza %b02%. Usa il tasto di selezione sinistro per accendere tutte le bombe.
+%i08% Questo oggetto ti dà un'altra bomba speciale %b01%. L'esplosione oltrepassa i muri, quindi fai attenzione!
+%i10% Il calcia-bombe ti permetterà di calciare le bombe in giro per il livello correndo contro di esse. Puoi farle esplodere mentre si muovono premendo il tasto di selezione sinistro.
+%i03% Questo oggetto ti permette di camminare attraverso i muri.
+%i11% Portare questa corazza ti rende invincibile per un certo periodo di tempo.
+%i06% Ti rende invincibile fino al prossimo colpo. L'oggetto sparisce dopo che vieni colpito.
+%i09% Blocca il movimento dei nemici per qualche secondo prezioso. Usalo per piazzare le tue trappole!
+%h% Trofei
+Quando finisci il gioco in una sessione sola (senza usare 'Continua') verrai premiato con dei trofei. I trofei ricevuti dipenderanno dalle tue capacità e verranno azzerati ogni volta che avvierai una nuova partita:
+%t00%: completa il gioco in una sola sessione.
+%t01%: prendi tutti gli oggetti in tutti i livelli.
+%t02%: non hai distrutto tutti i nemici in tutti i livelli.
+%t03%: dall'inizio alla fine non devi prendere nessuna fiamma.
+%t04%: hai distrutto tutti i nemici in tutti i livelli.
+%t05%: completa ogni round in 100 secondi o meno.
+%h% Modalità versus
+Combatti contro i tuoi tre rivali più cattivi. L'obiettivo è sopravvivere e vincere. Sarai all'altezza?
+

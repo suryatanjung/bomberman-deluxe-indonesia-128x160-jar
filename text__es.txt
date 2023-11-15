@@ -1,0 +1,100 @@
+[game]
+VICTORIAS
+¡Bravo!
+SET
+¡VICTORIA!
+FIN DEL JUEGO
+
+[infoimg]
+MODO NORMAL
+MODO VERSUS
+TROFEOS
+OPCIONES
+AYUDA
+INFORMACIÓN
+Sonido
+SÍ
+NO
+Récord
+Nueva partida
+Continuar
+Tiempo
+Asalto
+Preparado...
+TIEMPO AGOTADO
+¡EMPATE!
+¡NIVEL SUPERADO!
+SALIR
+FIN DE PARTIDA
+TÚ
+ORD1
+ORD2
+ORD3
+¡TROFEO RECIBIDO!
+SALA DE TROFEOS
+Efectos
+Música
+No
+Idioma
+Puntuación
+¿Salir del juego?
+Nombre
+Versión
+Copyright Hudson Soft Co. Ltd.
+Presentado por
+Living Mobile GmbH
+Cargando…
+
+[trpname]
+Medalla de yeso
+Copa de la avaricia
+Premio pies de plomo
+Laureles de la flojera
+Trofeo del carnicero
+Premio pies ligeros
+
+[softkey]
+-
+Atrás
+Sig.
+Pausa
+Son.
+Fin
+Obj.
+Sí
+No
+OK
+Salir
+
+[help]
+%h%Desarrollo del juego
+Nuestro amigo Bomberman ha vuelto, y esta vez tiene que abrirse paso a través de 30 emocionantes niveles llenos de enemigos y tesoros.
+También tendrás que enfrentarte a temibles enemigos finales que tratarán de evitar que te salgas con la tuya. En la mayoría de los niveles deberás encontrar las %i00% escaleras para continuar, pero si te topas con un enemigo final deberás eliminarlo para pasar a la siguiente fase.
+%h%Controles
+Para desplazarte por los menús, utiliza los botones de dirección o el teclado numérico: pulsa 'arriba' o '2' para subir, 'abajo' u '8' para bajar, 'izquierda' o '4' para moverte a la izquierda y 'derecha' o '6' para moverte a la derecha. Para seleccionar una opción, pulsa '5' o la tecla de función izquierda; para volver atrás o salir del juego, pulsa la tecla de función derecha.
+Durante la partida, puedes controlar a Bomberman mediante los botones de dirección (si tu teléfono cuenta con ellos) o el teclado numérico. Pulsa 'arriba' o '2' para subir, 'abajo' u '8' para bajar, 'izquierda' o '4' para moverte a la izquierda y 'derecha' o '6' para moverte a la derecha. Para colocar una bomba, pulsa el botón de disparo o la tecla '5', y para poner el juego en pausa pulsa la tecla de función derecha. Si consigues uno de los objetos especiales descritos a continuación, pulsa la tecla de función izquierda para activarlo.
+%h%Objetos
+%i02% Los patines aumentan la velocidad de tus movimientos. Puedes acumular un máximo de cinco.
+%i04% El icono de la llama aumenta el alcance de tus bombas. Puedes acumular un máximo de nueve.
+%i05% El icono de la bomba aumenta el número de bombas (%b00% %b01% %b02%) que puedes colocar al mismo tiempo. Una vez más, puedes acumular un máximo de nueve.
+Podrás utilizar estos objetos desde el mismo momento en el que los encuentres, incluso si pierdes una vida.
+%h%Objetos especiales
+%i07% El icono de Bomberman te proporciona una vida extra.
+%i01% Este objeto te permite usar bombas por control remoto %b02%. Utiliza la tecla de función izquierda para hacer estallar las bombas.
+%i08% Éste es otro modelo especial de bomba %b01%. Las explosiones de estas bombas atraviesan las paredes... ¡así que ponte a cubierto en un lugar seguro!
+%i10% Las botas de pegar patadas te permiten enviar las bombas de un lado a otro del nivel. Para hacerlo, no tienes mas que tocarlas mientras corres en la dirección deseada. Para hacer estallar la bomba mientras ruede por el suelo, pulsa la tecla de función izquierda.
+%i03% Este objeto te otorga la habilidad de atravesar las paredes.
+%i11% Este chaleco te hará invencible durante un período de tiempo determinado.
+%i06% Este objeto te hará invencible hasta que recibas un ataque. A continuación, desaparecerá.
+%i09% Este objeto congela a todos los enemigos durante unos preciosos segundos... ¡Aprovecha para tenderles una trampa!
+%h%Trofeos
+Cada vez que termines el juego de una sola vez (sin usar la función 'Continuar') recibirás determinados trofeos según tus acciones durante la partida. La sala de trofeos se vaciará cada vez que comiences una partida nueva.
+%t00%: Termina el juego de una sentada.
+%t01%: Recoge todos los objetos que encuentres en todos los niveles.
+%t02%: No acabes con todos los enemigos en ninguno de los niveles.
+%t03%: No recojas ni un solo icono de llama en toda la partida.
+%t04%: Destruye a todos los enemigos en todos los niveles.
+%t05%: Termina cada nivel en menos de 100 segundos.
+%h%Modo versus
+¡Enfréntate a tres temibles rivales! El único objetivo es sobrevivir... ¿Lograrás salir victorioso?
+

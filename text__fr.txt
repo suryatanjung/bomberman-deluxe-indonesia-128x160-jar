@@ -1,0 +1,100 @@
+﻿[game]
+VICTOIRES
+GAGNÉ !
+JEU TERMINÉ
+VICTOIRE !
+JEU TERMINÉ
+
+[infoimg]
+MODE NORMAL
+MODE DUEL
+TROPHÉES
+OPTIONS
+AIDE
+À PROPOS DE
+Son
+OUI
+NON
+Meill. score :
+Nouvelle partie
+Continuer
+Temps
+Tour
+Prêt...
+TEMPS TERMINÉ !
+MATCH NUL !
+NIVEAU TERMINÉ !
+QUITTER
+PARTIE TERMINÉE
+VOUS
+IA1
+IA2
+IA3
+GAIN DE TROPHÉES
+COLLEC. TROPHÉES
+Effets
+Musique
+Aucun
+Langue
+Votre score
+Quitter le jeu ?
+Nom
+Version 
+Copyright Hudson Soft Co. Ltd.
+Présenté par
+Living Mobile GmbH
+Chargement...
+
+[trpname]
+Médaille ordinaire
+Coupe Colletor
+Récompense médiocre
+Lauriers de faiblesse
+Prix de massacre
+Trophée  marathonien
+
+[softkey]
+-
+Ret.
+Suiv.
+Pause
+Son
+Fin
+Objet
+Oui
+Non
+OK
+Quit.
+
+[help]
+%h%Gameplay
+Votre ami Bomberman est de retour et doit traverser 30 niveaux passionnants plein d'ennemis et de bonus !
+Cette fois, de méchants boss tentent de vous empêcher de gagner. Dans les niveaux où vous sans boss, vous pouvez utiliser les escaliers %i00% pour terminer. En revanche, si vous rencontrez un boss, vous devrez le vaincre pour pouvoir continuer.
+%h%Commandes
+Utilisez le pavé directionnel  du menu ou le clavier numérique pour vous déplacer : haut ou 2 pour aller vers le haut, bas ou 8 pour aller vers le bas, gauche ou 4 pour aller à gauche et droite ou 6 pour aller à droite. Appuyez sur 5 ou sur la touche prog. gauche pour sélectionner, et sur la touche prog. droite pour revenir en arrière ou quitter le jeu.
+En cours de jeu, utilisez le pavé directionnel (si disponible) ou le clavier numérique pour contrôler les déplacements de Bomberman : haut ou 2 pour aller vers le haut, bas ou 8 pour aller vers le bas, gauche ou 4 pour aller à gauche et droite ou 6 pour aller à droite. Posez une bombe en appuyant sur 5 ou sur la touche de tir, et mettez le jeu sur pause en appuyant sur la touche prog. droite. Si vous avez ramassé des objets spéciaux (décrits ci-dessous), vous pouvez les activer grâce à la touche prog. gauche.
+%h%Objets
+%i02% Les rollers accélèrent votre déplacement. Vous pouvez en avoir un maximum de 5.
+%i04% L'objet de feu augmente la portée de vos bombes. Vous pouvez en avoir un maximum de 9.
+%i05% La bombe augmente le nombre de charges (%b00% %b01% %b02%) que vous pouvez placer à tout moment. Là aussi, vous pouvez en avoir un maximum de 9.
+Dès que vous ramassez ces objets, ils vous appartiennent. Même si vous perdez une vie, vous pouvez les utiliser.
+%h%Objets spéciaux
+%i07% L'objet Bomberman vous confère une vie supplémentaire.
+%i01% Cet objet vous donne des charges contrôlables à distance %b02%. Utilisez la touche prog. gauche pour les faire toutes exploser.
+%i08% Cet objet vous donne une autre bombe spéciale %b01%. Attention, car elle détruit les murs en explosant !
+%i10% Les objets coup de pied aux bombes permettent de les projeter au loin en courant vers elles. Faites-les exploser pendant qu'elles roulent par terre en appuyant sur la touche prog. gauche.
+%i03% Cet objet vous confère le pouvoir de traverser les murs.
+%i11% Cette veste vous rend invincible pendant un certain temps.
+%i06% Vous rend invincible jusqu'à la prochaine fois où vous êtes touché, après quoi l'objet disparaît.
+%i09% Immobilise tous les ennemis pendant de précieuses secondes. Profitez-en pour poser vos pièges !
+%h%Trophées
+Vous recevez des trophées lorsque vous finissez le jeu d'un seul coup (sans utiliser l'option "Continuer"). Les trophées reçus dépendent de ce que vous avez réalisé et sont réinitialisés chaque fois que vous lancez une nouvelle partie :
+%t00% : terminez le jeu d'un seul coup.
+%t01% : ramassez tous les objets dans tous les niveaux.
+%t02% : vous n'avez pas éliminé tous les ennemis de tous les niveaux.
+%t03% : vous n'avez pas ramassé un seul objet de feu du début à la fin.
+%t04% : vous avez éliminé tous les ennemis de tous les niveaux.
+%t05% : chaque niveau a été terminé en 100 secondes ou moins.
+%h%Mode Versus
+Affrontez trois de vos plus terribles rivaux ! Votre but est simple : survivre et gagner. En serez-vous capable ?
+
